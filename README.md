@@ -1,0 +1,2 @@
+# Predictive-Modeling-of-Crop-Yields-with-Climate-Change-Effects-Using-DL-Based-Transformer-Model
+The model is trained on a dataset from 1990 to 2013, including 101 countries. It includes information on temperature, precipitation, environmental factors, and crop yield data from various regions globally. The model consists of Transformer-based neural networks with LSTM layers and feed-forward neural network (FNN) components.
